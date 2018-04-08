@@ -49,7 +49,7 @@ namespace CSLangFeatures
             CS6Features.ImmutableAutoProperties();
             CS6Features.ExpressionBodiedMembers();
 
-            CS6Features.GetMemberName();
+            CS6Features.NameOfOperator();
             CS6Features.StringInterpolation();
             CS6Features.NullConditionalOperator();
         }

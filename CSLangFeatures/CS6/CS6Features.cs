@@ -30,7 +30,7 @@ namespace CSLangFeatures.CS6
                 , shopOrder.GetDeliveryHoursLeft());
         }
 
-        public static void GetMemberName()
+        public static void NameOfOperator()
         {
             Car fiat = new Car("FIAT");
             Console.WriteLine("{0}: {1}",nameof(fiat.Make),fiat.Make );
